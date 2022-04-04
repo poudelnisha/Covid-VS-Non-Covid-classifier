@@ -8,7 +8,7 @@ Given that our model has a good accuracy, we concluded that this model can be fu
 
 Further it is explained in the notebook itself. [Notebook](https://github.com/poudelnisha/Covid-VS-Non-Covid-classifier/blob/main/model_covidclassifier.ipynb)
 
-Please refer to [Report] (https://github.com/poudelnisha/Covid-VS-Non-Covid-classifier/blob/main/Report.pdf) for detail report.
+Please refer to [Report](https://github.com/poudelnisha/Covid-VS-Non-Covid-classifier/blob/main/Report.pdf) for detail report.
 
 ## Let's Get Started !!!
 
